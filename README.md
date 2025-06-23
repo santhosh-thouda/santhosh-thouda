@@ -76,9 +76,10 @@
 
 ### 🧠 Focus Areas in 2025
 
-🤖 LLMs + Prompt Engineering + Generative AI
-⚙️ DSA + System Design + Project Optimization + Advanced Web development  
-🧑‍💻 Preparing for top-tier product roles  
+- 🤖 LLMs + Prompt Engineering + Generative AI  
+- ⚙️ DSA + System Design + Project Optimization + Advanced Web Development  
+- 🧑‍💻 Preparing for top-tier product roles  
+
 
 ---
 
