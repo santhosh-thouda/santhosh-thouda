@@ -22,11 +22,12 @@
 
 ### 🧠 Who Am I?
 ```js
-👨‍🎓 Final Year CSE Student @ Lovely Professional University
-💻 Full-Stack Developer | AI & LLM Enthusiast
-🧠 Curious about real-time systems, generative AI, and LangChain
-📦 Building industry-grade applications using Flask, React, Node.js, and Whisper
-🎯 Focused on #OperationTopTier to crack product-based tech roles
+👨‍🎓 Final Year CSE Student @ Lovely Professional University  
+💻 Full-Stack Developer | AI & LLM Enthusiast  
+💼 Freelance Subject Matter Expert @ Chegg with rated academic delivery  
+🧠 Curious about real-time systems and generative AI  
+📦 Building industry-grade applications using Flask, React, Node.js, and Whisper  
+🎯 Focused on #OperationTopTier to crack product-based tech roles  
 ```
 
 ---
@@ -75,7 +76,7 @@
 
 ### 🧠 Focus Areas in 2025
 
-🧪 LLMs + RAG + LangChain Workflow  
+🤖 LLMs + Prompt Engineering + Generative AI
 ⚙️ DSA + System Design + Project Optimization + Advanced Web development  
 🧑‍💻 Preparing for top-tier product roles  
 
