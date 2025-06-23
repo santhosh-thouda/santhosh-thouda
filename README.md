@@ -15,38 +15,69 @@
   <a href="https://linkedin.com/in/santhosh-thouda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:santhoshthouda7576@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/santhosh-thouda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/santhosh_thouda"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
 ### 🧠 Who Am I?
 ```js
-final_year_student = true;
-tech_stack = ["Java", "React", "Python", "Node", "GenAI", "LangChain", "Flask"];
-goal = "Land top-tier SWE role in 2025 🚀";
-motto = "Learn. Build. Repeat.";
+👨‍🎓 Final Year CSE Student @ Lovely Professional University
+💻 Full-Stack Developer | AI & LLM Enthusiast
+🧠 Curious about real-time systems, generative AI, and LangChain
+📦 Building industry-grade applications using Flask, React, Node.js, and Whisper
+🎯 Focused on #OperationTopTier to crack product-based tech roles
 ```
 
 ---
 
-### 💼 Experience Highlights
-- 🧑‍🏫 **Chegg Experts** — 160+ rated solutions, 1.2x Expert Rating  
-- 📊 **Deloitte Australia (Virtual)** — Dashboard planning, simulation report  
-- 🌍 Projects with React + Flask + Whisper + HuggingFace
+### 💼 Experience
+
+#### 🧑‍🏫 Chegg Experts – Subject Matter Expert (CSE) *(Feb 2024 – Apr 2025)*
+- ✅ Delivered over 160 academic solutions across CS domains
+- 🔍 Specialized in Java, Python, C++, DBMS, OS, and Algorithms
+- ⭐ Maintained a 1.2x Expert Rating with 95%+ student satisfaction
+- 🧩 Provided step-by-step pedagogy-based solutions to complex engineering problems
+
+#### 💻 Deloitte Australia (Forage) – Virtual Tech Consultant *(Jun 2025)*
+- 🧠 Designed a telemetry dashboard development proposal
+- 🔎 Conducted feasibility study and system integration planning
+- 📊 Provided strategic roadmap with security, auth, and cost analysis
+- 📜 Received signed certification from Deloitte CHRO Tina McCreery
+
+---
+
+### 🚀 Featured Projects (From Resume)
+
+#### 🎧 Podcast Summarizer *(June 2025)*
+- AI-based summarizer handling MP3/MP4/TXT formats using Whisper + BART
+- React + Flask stack with text-to-speech, async upload, and waveform animation
+- Tech: `React.js`, `TypeScript`, `Python`, `Flask`, `MoviePy`, `Transformers`, `Tailwind`, `Whisper`
+
+#### 🌍 Edutainment Website *(June 2023)*
+- Blended LMS with curated tutorials, videos, vlogs, and music
+- Mobile-first with modular design: Home, About, Contact, Learning & Entertainment
+- Tech: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Bootstrap`, `jQuery`
+
+#### 💱 Currency Converter *(Aug 2024)*
+- Real-time converter with ExchangeRate API and input-driven rates
+- Mobile-optimized UX with error handling and responsive layout
+- Tech: `HTML`, `CSS`, `JavaScript`, `REST APIs`
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,js,ts,html,css,tailwind,nodejs,express,flask,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,js,ts,html,css,tailwind,nodejs,express,flask,mysql,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🛰️ Featured Projects
-> **🎧 Podcast Summarizer:** Whisper + React + Flask-based summarizer  
-> **🌐 Edutainment WebApp:** LMS + Video + Books with PHP & MySQL  
-> **💱 Currency Converter:** Live rates + responsive UI
+### 🧠 Focus Areas in 2025
+
+🧪 LLMs + RAG + LangChain Workflow  
+⚙️ DSA + System Design + Project Optimization + Advanced Web development  
+🧑‍💻 Preparing for top-tier product roles  
 
 ---
 
@@ -59,18 +90,19 @@ motto = "Learn. Build. Repeat.";
 
 ---
 
-### 🧠 Focus Areas in 2025
-- 🔭 OrbitHub – Real-Time Satellite & Debris Tracker  
-- 🧪 LLMs + RAG + LangChain Workflow  
-- ⚙️ DSA + System Design + Project Optimization  
-- 🧑‍💻 Preparing for top-tier product roles
+### 🏆 Achievements
+- 🥇 Secured **566th All India Rank** – NCAT 2025
+- 🌟 1.2x Expert Rating – **Top Subject Matter Expert** @ Chegg
+- 🧩 Delivered 160+ accurate CSE solutions with top QA recognition
 
 ---
 
-### 🏆 Achievements
-- 🥇 NCAT 2025 – AIR 566  
-- ⭐ 1.2x Expert Rating on Chegg  
-- 📜 Coursera + DeepLearning.AI + GfG Certified
+### 📜 Certifications
+
+- ✅ **Generative AI for Everyone** – DeepLearning.AI  
+- ✅ **DSA Self-Paced Course** – GeeksforGeeks  
+- ✅ **HTML, CSS, JavaScript for Web Dev** – Johns Hopkins (Coursera)  
+- ✅ **Server-side JavaScript with Node.js** – NIIT  
 
 ---
 
