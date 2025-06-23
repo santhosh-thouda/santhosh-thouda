@@ -1,108 +1,99 @@
-<h1 align="center">Hey there, I'm Santhosh Thouda 👋</h1>
 
+<!-- Profile Banner -->
 <p align="center">
-  🚀 Full-Stack Developer • 🤖 Gen AI Explorer • 💡 Problem Solver • 🎯 Operation Top Tier  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Santhosh+Thouda!;Full-Stack+Developer+%7C+Gen+AI+Explorer;Operation+Top+Tier+in+Progress+🚀;Let%E2%80%99s+Build+Something+Awesome+Together+💡" alt="Typing SVG" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
-  <a href="https://santhoshcv.netlify.app">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/santhosh-thouda">🔗 LinkedIn</a> • 
-  <a href="mailto:santhoshthouda7576@gmail.com">📧 Email</a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Final-year B.Tech CSE student @ Lovely Professional University  
-- 💼 Freelance Subject Matter Expert (CSE) @ Chegg with 160+ top-rated solutions  
-- ⚙️ Passionate about merging **AI, Real-Time Systems, and Web Development**  
-- 🔥 Currently pushing through **#OperationTopTier** to crack top tech roles  
-- 🧠 Lifelong learner, quick adapter, and curious builder
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** `Java` `Python` `JavaScript` `TypeScript`  
-**Frontend:** `React.js` `HTML` `CSS` `Tailwind` `Framer Motion` `Bootstrap`  
-**Backend:** `Node.js` `Express.js` `Flask` `RESTful APIs`  
-**AI & LLMs:** `OpenAI GPT` `Whisper` `Hugging Face` `LangChain` `Vector DBs (FAISS, Pinecone)`  
-**Tools & Platforms:** `Git` `GitHub` `VS Code` `Postman` `Jira` `Confluence`  
-**Practices:** `Agile` `SDLC` `Prompt Engineering` `API Integration`
-
----
-
-## 🚀 Projects
-
-### 🎧 [Podcast Summarizer](https://github.com/santhosh-thouda/podcast-summarizer)
-> 🧠 AI-powered app for summarizing audio, video, and text using **Whisper** and **Transformers**  
-> 🛠️ `React` `Flask` `Whisper` `Hugging Face` `Framer Motion` `MoviePy`
-
----
-
-### 🌍 Edutainment Website
-> 📚 Combines education + entertainment with curated resources and media  
-> 🛠️ `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Bootstrap` `jQuery`
-
----
-
-### 💱 Currency Converter
-> 🔄 Dynamic web app with real-time currency API and responsive UI  
-> 🛠️ `JavaScript` `HTML` `CSS` `Exchange Rate API`
-
----
-
-## 💼 Experience
-
-### 🧑‍🏫 Chegg Experts – Subject Matter Expert (CSE) *(Feb 2024 – Apr 2025)*
-- ✅ Delivered 160+ accurate, high-quality CS solutions  
-- 💯 Maintained 1.2x Expert Rating with 95%+ student satisfaction  
-- 📚 Topics: Java, Python, C++, Data Structures, OOP, Algorithms, OS, DBMS, and more
-
-### 💻 Deloitte Australia (Forage) – Virtual Internship *(Jun 2025)*
-- 🧾 Created a software proposal for a telemetry dashboard  
-- 🔍 Conducted system analysis, planning, and implementation roadmap  
-- 📜 Certified by Deloitte CHRO Tina McCreery
-
----
-
-## 🎯 Current Focus
-
-- 📌 Cracking system design & in-depth DSA  
-- 🔭 Working on **OrbitHub** – Real-time Space Debris Tracker  
-- 🧪 Experimenting with **LLMs + RAG + LangChain**  
-- 🌱 Building real-world, resume-worthy projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-thouda&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=santhosh-thouda&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-thouda&layout=compact&theme=radical" width="48%"/>
+  <a href="https://santhoshcv.netlify.app"><img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/santhosh-thouda"><img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:santhoshthouda7576@gmail.com"><img src="https://img.shields.io/badge/📧 Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/santhosh-thouda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **566th All India Rank** – NCAT 2025  
-- 🌟 1.2x Expert Rating – **Top-tier Chegg Expert**  
-- ✅ Completed 4+ industry-level certifications in Web Dev, Node.js, DSA, and Gen AI
-
----
-
-## 📫 Let’s Connect!
-
-- 🔗 [LinkedIn](https://linkedin.com/in/santhosh-thouda)  
-- 🌐 [Portfolio](https://santhoshcv.netlify.app)  
-- 💬 Email: **santhoshthouda7576@gmail.com**
+### 🧑‍💻 About Me
+```html
+🌟 Final Year CSE Student @ LPU | Passionate Full-Stack Developer  
+🤖 Exploring LLMs, Whisper, LangChain & GenAI  
+🚀 Building Real-Time Systems | AI Tools | Dashboards  
+🎯 Currently on #OperationTopTier to crack top tech roles  
+```
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to connect or collaborate on cool projects.*
+### 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css,nodejs,express,flask,mysql,mongodb,tailwind,bootstrap,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🎧 Podcast Summarizer
+> Summarizes audio, video & text using **Whisper**, **Hugging Face**, and **Flask**.  
+> Tech Stack: `React` `Flask` `Python` `Framer Motion` `Tailwind` `Whisper`  
+> 👉 [View Repo](https://github.com/santhosh-thouda/podcast-summarizer)
+
+#### 🌐 Edutainment Website
+> Blends education + entertainment into a learning platform with curated content.  
+> Tech Stack: `HTML` `CSS` `JavaScript` `PHP` `MySQL`  
+> 🎯 LMS + Tutorials + Sports + Business + Movies
+
+#### 💱 Currency Converter
+> Lightweight, API-driven converter with a clean UI and mobile responsiveness.  
+> Tech Stack: `JavaScript` `REST APIs` `Responsive Web Design`
+
+---
+
+### 💼 Experience
+
+#### 🧠 Chegg Experts (Feb 2024 – Apr 2025)
+- 🛠️ Delivered 160+ top-rated CSE solutions  
+- 📈 Maintained 1.2x Expert Rating and 95%+ satisfaction  
+- 💡 Topics: Java, DSA, DBMS, OS, C++, Python
+
+#### 🧾 Deloitte Australia – Virtual Internship (Jun 2025)
+- 📊 Designed telemetry dashboard proposal  
+- 🧭 Conducted system roadmap & client analysis  
+- ✅ Certified by Deloitte CHRO
+
+---
+
+### 🎯 Current Focus
+```js
+{
+  coding: "Java, DSA, System Design",
+  building: ["OrbitHub", "Real-time Dashboards"],
+  learning: ["LangChain", "RAG", "LLM Integration"],
+  goal: "Land a top-tier SWE role before July 2025"
+}
+```
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-thouda&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=santhosh-thouda&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-thouda&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+</div>
+
+---
+
+### 🏆 Achievements
+- 🥇 NCAT 2025 – All India Rank 566  
+- ⭐ 1.2x Expert Rating – Chegg CSE Expert  
+- 📜 Certified – GenAI, Node.js, DSA, Web Dev
+
+---
+
+### ✨ Let's Connect & Collaborate!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
