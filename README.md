@@ -50,6 +50,12 @@
 
 ### 🚀 Featured Projects (From Resume)
 
+#### 👥 MERN Social Media Web App *(July 2025)*
+- End-to-end social networking platform with post sharing, likes, comments & authentication
+- Features: JWT-based login, real-time feed updates, profile management, and secure API integration
+- Tech: `MongoDB`, `Express.js`, `React.js`, `Node.js`, `JWT`, `Redux`, `Tailwind CSS`
+
+
 #### 🎧 Podcast Summarizer *(June 2025)*
 - AI-based summarizer handling MP3/MP4/TXT formats using Whisper + BART
 - React + Flask stack with text-to-speech, async upload, and waveform animation
