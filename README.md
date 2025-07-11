@@ -26,7 +26,7 @@
 💻 Full-Stack Developer | AI & LLM Enthusiast  
 💼 Freelance Subject Matter Expert @ Chegg with rated academic delivery  
 🧠 Curious about real-time systems and generative AI  
-📦 Building industry-grade applications using Flask, React, Node.js, and Whisper  
+📦 Building industry-grade applications using MERN Stack 
 🎯 Focused on #OperationTopTier to crack product-based tech roles  
 ```
 
