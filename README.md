@@ -48,31 +48,6 @@
 
 ---
 
-### 🚀 Featured Projects (From Resume)
-
-#### 👥 MERN Social Media Web App *(July 2025)*
-- End-to-end social networking platform with post sharing, likes, comments & authentication
-- Features: JWT-based login, real-time feed updates, profile management, and secure API integration
-- Tech: `MongoDB`, `Express.js`, `React.js`, `Node.js`, `JWT`, `Redux`, `Tailwind CSS`
-
-
-#### 🎧 Podcast Summarizer *(June 2025)*
-- AI-based summarizer handling MP3/MP4/TXT formats using Whisper + BART
-- React + Flask stack with text-to-speech, async upload, and waveform animation
-- Tech: `React.js`, `TypeScript`, `Python`, `Flask`, `MoviePy`, `Transformers`, `Tailwind`, `Whisper`
-
-#### 🌍 Edutainment Website *(June 2023)*
-- Blended LMS with curated tutorials, videos, vlogs, and music
-- Mobile-first with modular design: Home, About, Contact, Learning & Entertainment
-- Tech: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Bootstrap`, `jQuery`
-
-#### 💱 Currency Converter *(Aug 2024)*
-- Real-time converter with ExchangeRate API and input-driven rates
-- Mobile-optimized UX with error handling and responsive layout
-- Tech: `HTML`, `CSS`, `JavaScript`, `REST APIs`
-
----
-
 ### ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,react,js,ts,html,css,tailwind,nodejs,express,flask,mysql,mongodb,git,github,vscode,postman" />
