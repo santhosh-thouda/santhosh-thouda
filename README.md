@@ -1,95 +1,77 @@
+<div align="center">
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f172a&height=180&section=header&text=Hey!%20I'm%20Santhosh%20Thouda🚀&fontSize=35&fontColor=ffffff&fontAlign=50" />
-</p>
+# Hi, I'm Santhosh Thouda 👋
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Gen+AI+Explorer+%F0%9F%A7%A0;Operation+Top+Tier+%E2%9A%94%EF%B8%8F+in+Progress;Let%27s+Build+Something+Great+Together!" alt="Typing SVG">
-</p>
+### Software Engineer • Backend Developer • Java & Spring Boot
 
-<!-- Social Media Links -->
-<p align="center">
-  <a href="https://santhoshcv.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/santhosh-thouda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:santhoshthouda7576@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/santhosh-thouda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/SanthoshThouda"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+Building scalable backend systems, distributed applications, and AI-powered software.
 
----
+<br>
 
-### 🧠 Who Am I?
-```js
-👨‍🎓 Final Year CSE Student @ Lovely Professional University  
-💻 Full-Stack Developer | AI & LLM Enthusiast  
-💼 Freelance Subject Matter Expert @ Chegg with rated academic delivery  
-🧠 Curious about real-time systems and generative AI  
-📦 Building industry-grade applications using MERN Stack 
-🎯 Focused on #OperationTopTier to crack product-based tech roles  
-```
+<a href="https://santhoshcv.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/santhosh-thouda">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:santhoshthouda7576@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/SanthoshThouda">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
 
 ---
 
-### 💼 Experience
+## About
 
-#### 🧑‍🏫 Chegg Experts – Subject Matter Expert (CSE) *(Feb 2024 – Apr 2025)*
-- ✅ Delivered over 160 academic solutions across CS domains
-- 🔍 Specialized in Java, Python, C++, DBMS, OS, and Algorithms
-- ⭐ Maintained a 1.2x Expert Rating with 95%+ student satisfaction
-- 🧩 Provided step-by-step pedagogy-based solutions to complex engineering problems
+I'm a software engineer passionate about designing reliable backend systems and building AI-powered applications.
 
-#### 💻 Deloitte Australia (Forage) – Virtual Tech Consultant *(Jun 2025)*
-- 🧠 Designed a telemetry dashboard development proposal
-- 🔎 Conducted feasibility study and system integration planning
-- 📊 Provided strategic roadmap with security, auth, and cost analysis
-- 📜 Received signed certification from Deloitte CHRO Tina McCreery
+Currently exploring:
+
+- Java & Spring Boot
+- Microservices
+- Distributed Systems
+- System Design
+- AI & LLM Applications
 
 ---
 
-### ⚙️ Tech Stack
+## Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,js,ts,html,css,tailwind,nodejs,express,flask,mysql,mongodb,git,github,vscode,postman" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,react,nodejs,postgres,mysql,mongodb,docker,rabbitmq,git,github,postman,linux&perline=8"/>
+
 </p>
 
 ---
 
-### 🧠 Focus Areas in 2025
+## GitHub
 
-- 🤖 LLMs + Prompt Engineering + Generative AI  
-- ⚙️ DSA + System Design + Project Optimization + Advanced Web Development  
-- 🧑‍💻 Preparing for top-tier product roles  
-
-
----
-
-### 📈 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-thouda&show_icons=true&theme=radical&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=santhosh-thouda&theme=radical&border_radius=15" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-thouda&layout=compact&theme=radical&border_radius=15" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhosh-thouda&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-thouda&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-thouda&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🏆 Achievements
-- 🥇 Secured **566th All India Rank** – NCAT 2025
-- 🌟 1.2x Expert Rating – **Top Subject Matter Expert** @ Chegg
-- 🧩 Delivered 160+ accurate CSE solutions with top QA recognition
+<div align="center">
 
----
+> **Code. Learn. Build. Repeat.**
 
-### 📜 Certifications
-
-- ✅ **Generative AI for Everyone** – DeepLearning.AI  
-- ✅ **DSA Self-Paced Course** – GeeksforGeeks  
-- ✅ **HTML, CSS, JavaScript for Web Dev** – Johns Hopkins (Coursera)  
-- ✅ **Server-side JavaScript with Node.js** – NIIT  
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
-</p>
+</div>
