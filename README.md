@@ -1,7 +1,6 @@
 
 <div align="center">
 
-###### santhosh-thouda / README.md
 
 # Hi, I'm Santhosh Thouda 👋
 
