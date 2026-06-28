@@ -1,39 +1,39 @@
 
 <div align="center">
 
+###### santhosh-thouda / README.md
+
 # Hi, I'm Santhosh Thouda 👋
 
 ### Software Engineer • Backend Developer • Java & Spring Boot
 
-Building scalable backend systems, distributed applications, and AI-powered software.
+*Passionate about backend engineering, distributed systems, and building software that solves real-world problems.*
 
 <br>
 
 <a href="https://santhoshcv.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/▲%20Portfolio-111827?style=flat-square&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/santhosh-thouda">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:santhoshthouda7576@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/SanthoshThouda">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 </div>
 
 ---
 
-## Tech Stack
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,react,nodejs,postgres,mysql,mongodb,docker,rabbitmq,git,github,postman,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,postgres,docker,rabbitmq,git,linux&theme=dark"/>
 
 </p>
 
@@ -43,9 +43,7 @@ Building scalable backend systems, distributed applications, and AI-powered soft
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=santhosh-thouda&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-thouda&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-thouda&layout=compact&theme=github_dark&hide_border=true&hide_title=true"/>
 
 </p>
 
@@ -56,4 +54,3 @@ Building scalable backend systems, distributed applications, and AI-powered soft
 > **Code. Learn. Build. Repeat.**
 
 </div>
-```
