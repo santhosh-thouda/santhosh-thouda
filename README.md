@@ -1,5 +1,5 @@
 
-# Hello There I am Santhosh 👋
+# Hello There I am Santhosh
 
 I enjoy turning ideas into software.
 
