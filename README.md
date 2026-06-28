@@ -1,9 +1,8 @@
+# Hi, I'm Santhosh
 
-# Hello There I am Santhosh
+I enjoy building software that solves real-world problems.
 
-I enjoy turning ideas into software.
-
-I like these quotes:
+A few words I live by:
 
 `The biggest risk is not taking any risk.` ~ Mark Zuckerberg
 
